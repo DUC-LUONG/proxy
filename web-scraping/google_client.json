@@ -1,0 +1,23 @@
+{
+	"access_token": "ya29.Glu9BL_QqLf6vGATVOCZGdNp5DiV_0dbeogguvo6hctEdvg5RTMliYJ_UZxpWm2MP2_Vy41KCF3QElpBVRSgDJEYLsNIvtVzGqidDpIAI7kS0UzniuwMeMq0xk9l",
+	"client_id": "135988107755-4lcrp7sjpnlssm1dfpdq7us6ojlj6o6c.apps.googleusercontent.com",
+	"client_secret": "70FMSllTZ9inm2qLQkO1QP3x",
+	"refresh_token": "1/MXeaQmnuGAHRE-ZnvpmZlcbTwX__ShSlNIumHd5m1TU",
+	"token_expiry": "2017-09-05T15:52:02Z",
+	"token_uri": "https://accounts.google.com/o/oauth2/token",
+	"user_agent": "Google Sheets API Python Quickstart",
+	"revoke_uri": "https://accounts.google.com/o/oauth2/revoke",
+	"id_token": null,
+	"id_token_jwt": null,
+	"token_response": {
+		"access_token": "ya29.Glu9BL_QqLf6vGATVOCZGdNp5DiV_0dbeogguvo6hctEdvg5RTMliYJ_UZxpWm2MP2_Vy41KCF3QElpBVRSgDJEYLsNIvtVzGqidDpIAI7kS0UzniuwMeMq0xk9l",
+		"expires_in": 3600,
+		"refresh_token": "1/MXeaQmnuGAHRE-ZnvpmZlcbTwX__ShSlNIumHd5m1TU",
+		"token_type": "Bearer"
+	},
+	"scopes": ["https://www.googleapis.com/auth/spreadsheets"],
+	"token_info_uri": "https://www.googleapis.com/oauth2/v3/tokeninfo",
+	"invalid": false,
+	"_class": "OAuth2Credentials",
+	"_module": "oauth2client.client"
+}
